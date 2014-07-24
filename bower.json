@@ -18,7 +18,6 @@
   "dependencies" : {
     "angular" : "latest",
     "jquery" : "latest",
-    "angular-filters" : "latest",
-    "timezone-js" : "git@github.com:mde/timezone-js.git#v0.4.4"
+    "angular-filters" : "latest"
   }
 }
